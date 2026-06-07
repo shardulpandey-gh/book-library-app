@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "A React app for uploading, reading, and downloading PDF books with Hindi and English support",
   "private": true,
+  "homepage": "./",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
